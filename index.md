@@ -1,4 +1,4 @@
-<!doctyped html>
+<!DOCTYPE html>
 <html>
 <head>
 

@@ -13,8 +13,6 @@
 <p>疑是地上霜</p>
 <p>举头望明月</p>
 <p>低头思故乡</p>
-<h2>你妈逼</h2>
-<p>我操你妈逼</p>
 
 
 </body>
@@ -23,13 +21,11 @@
 
 {
 document.write("a");
-alert('after print a');
+alert('请按确定');
 document.write("b");
-alert('after print b');
+alert('请继续按确定');
 document.write("c");
-alert('after print c');
-document.write("d");
-alert('after print d');
+
 }
 
 

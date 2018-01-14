@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
 
 <title>
-唐诗
+林盛斌 个人网站
 </title>
 
 </head>
@@ -16,19 +15,5 @@
 
 
 </body>
-
-<script type="text/javascript">
-
-{
-document.write("a");
-alert('请按确定');
-document.write("b");
-alert('请继续按确定');
-document.write("c");
-
-}
-
-
-</script>
 
 </html>

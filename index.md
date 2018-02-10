@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset ="utf-8"/>
@@ -23,7 +22,7 @@ background-color:black;
 </style>
 </head>
 <body>
-<audio src="1.mp3" controls="controls" autoplay="autoplay">
+<audio src="1.mp3"  autoplay="autoplay">
 </audio>
 <h1>乃事to米球</h1>
 <p title="a gentle reminder">

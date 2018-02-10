@@ -1,4 +1,7 @@
-<html>
+<style>
+body{color:white;
+background-color:black;}
+</style><html>
 <head>
 
 <title>

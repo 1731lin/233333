@@ -1,13 +1,13 @@
 <html>
 <head>
+
+<title>
+林盛斌 个人网站
+</title>
 <style>
 body{color:white;
 background-color:black;}
 </style>
-<title>
-林盛斌 个人网站
-</title>
-
 </head>
 <body>
 <h1>静夜思</h1>

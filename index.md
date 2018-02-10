@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset ="utf-8"/>
@@ -17,18 +18,20 @@ background-color:black;
  	to{opacity: 100}
  }
  h1,p,ul{
- 	animation: myfirst 3s infinite;
+ 	animation: myfirst 1s infinite;
  }
 </style>
 </head>
 <body>
-<h1>What to buy</h1>
+<audio src="1.mp3" controls="controls" autoplay="autoplay">
+</audio>
+<h1>乃事to米球</h1>
 <p title="a gentle reminder">
-Don't forget to buy this stuff.</p>
+你好啊</p>
 <ul id="purchases">
-<li class="sale">Cheese</li>
-<li class="sale important">Milk</li>
-<li> 林盛斌最帅</li>
+<li class="sale">儿子</li>
+<li class="sale important">儿子</li>
+<li> 我是你爸爸</li>
 </ul>
 <script>
 var items=document.getElementByTagName("li");
@@ -38,3 +41,4 @@ alert(typeof items[i]);
 </script>
 </body>
 </html>
+

@@ -9,6 +9,7 @@ background-color:black;}
 </style>
 </head>
 <body>
+ <img src="9.png"/>
 <h1>What to buy</h1>
 <p title="a gentle reminder">
 Don't forget to buy this stuff.</p>

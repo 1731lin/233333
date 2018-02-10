@@ -4,7 +4,7 @@
 <title>Shopping list</title>
 <style>
 body{color:white;
- background-image:url(/9.png);
+ background-image:url(9.png);
 background-color:black;
  background-size:100% 100%;
  height:100%;

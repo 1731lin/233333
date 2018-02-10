@@ -5,7 +5,13 @@
 <style>
 body{color:white;
  background-image:url(/9.png);
-background-color:black;}
+background-color:black;
+ background-size:100% 100%;
+ height:100%;
+ }
+ html{
+ height:100%;
+ }
 </style>
 </head>
 <body>

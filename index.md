@@ -1,22 +1,27 @@
+<!DOCTYPE html>
 <html>
 <head>
-
-<title>
-林盛斌 个人网站
-</title>
+<meta charset ="utf-8"/>
+<title>Shopping list</title>
 <style>
 body{color:white;
 background-color:black;}
 </style>
 </head>
 <body>
-<h1>静夜思</h1>
-<p>床前明月光</p>
-<p>疑是地上霜</p>
-<p>举头望明月</p>
-<p>低头思故乡</p>
-
-
+<h1>What to buy</h1>
+<p title="a gentle reminder">
+Don't forget to buy this stuff.</p>
+<ul id="purchases">
+<li class="sale">Cheese</li>
+<li class="sale important">Milk</li>
+<li> 林盛斌最帅</li>
+</ul>
+<script>
+var items=document.getElementByTagName("li");
+for(var i=0;i<items.length;i++){	
+alert(typeof items[i]);
+}
+</script>
 </body>
-
 </html>

@@ -1,9 +1,9 @@
+<html>
+<head>
 <style>
 body{color:white;
 background-color:black;}
-</style><html>
-<head>
-
+</style>
 <title>
 林盛斌 个人网站
 </title>

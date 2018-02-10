@@ -12,6 +12,13 @@ background-color:black;
  html{
  height:100%;
  }
+ @keyframes myfirst{
+ 	from{opacity: 0}
+ 	to{opacity: 100}
+ }
+ h1,p,ul{
+ 	animation: myfirst 3s infinite;
+ }
 </style>
 </head>
 <body>
